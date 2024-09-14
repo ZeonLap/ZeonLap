@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 [![ZeonLap's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeonLap)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ZeonLap's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZeonLap)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeonLap)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Junli Wang (Zeonlap Wong in Jyutping), an undergraduate student from THU.
