@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![ZeonLap's GitHub stats](https://github-readme-stats-pi-gilt-31.vercel.app/api?username=ZeonLap&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ZeonLap)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pi-gilt-31.vercel.app/api/top-langs/?layout=compact&username=ZeonLap&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Junli Wang (Zeonlap Wong in Jyutping), an undergraduate student from THU.
 
