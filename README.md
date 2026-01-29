@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-pi-gilt-31.vercel.app/api/top-langs/?layout=compact&username=ZeonLap&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-I am Junli Wang (Zeonlap Wong in Jyutping), an undergraduate student from THU.
+I am Junli Wang (Zeonlap Wong in Jyutping), a first-year PhD student in UCSD CSE & HDSI
 
-- 🔭 I’m currently working on NLP + Multimodal Agents
+I work on **Multimodal Digital Agents** (Some may call it **Universal Digital Agents**).
