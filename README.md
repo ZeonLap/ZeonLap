@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![ZeonLap's GitHub stats](https://github-readme-stats-pi-gilt-31.vercel.app/api?username=ZeonLap&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-pi-gilt-31.vercel.app/api/top-langs/?layout=compact&username=ZeonLap&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-I am Junli Wang (Zeonlap Wong in Jyutping), a first-year PhD student in UCSD CSE & HDSI
+I am Junli Wang (Zeonlap Wong in Jyutping), a first-year PhD student in UCSD CSE & HDSI.
 
 I work on **Multimodal Digital Agents** (Some may call it **Universal Digital Agents**).
